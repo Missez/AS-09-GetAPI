@@ -2,8 +2,10 @@
 
 แอปพลิเคชันแสดงสภาพอากาศที่พัฒนาด้วย Flutter โดยใช้ Open-Meteo API พร้อม UI แบบ Modern Dark Theme
 
-<img width="7" height="10" alt="image" src="https://github.com/user-attachments/assets/66ba6a1f-0f61-47fa-be08-22bf41520b5b" />
-<img width="7" height="10" alt="image" src="https://github.com/user-attachments/assets/72a96941-714a-4753-9b4b-850681ce620b" />
+<img width="433" height="996" alt="image" src="https://github.com/user-attachments/assets/30c82b0e-2e2e-4cf8-9b4c-1955f4206973" />
+<img width="433" height="992" alt="image" src="https://github.com/user-attachments/assets/b4df52a7-67b3-409e-b730-df7caa55e333" />
+<img width="440" height="924" alt="image" src="https://github.com/user-attachments/assets/bf247a97-1342-47d7-97b3-b7cf51ae4086" />
+
 
 ## 📋 สารบัญ
 1. [ภาพรวมโปรเจกต์](#ภาพรวมโปรเจกต์)
